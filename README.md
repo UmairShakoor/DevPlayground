@@ -8,7 +8,7 @@ This repo contains a collection of projects, snippets, and examples showcasing v
 
 *   Small, focused projects demonstrating specific techniques. 🧩
 *   Experiments with different CSS frameworks and styling approaches. 🎨
-*   (Coming Soon!) JavaScript snippets and mini-applications. 💻
+*   JavaScript projects and examples, shared as I complete them. 💻
 *   Examples of accessibility best practices. ♿
 *   And much more!  This is a work in progress, so new things are always being added. ✨
 
@@ -30,4 +30,7 @@ MIT License
 
 ## Get in touch 📫
 
-Links to my portfolio and other contact information coming soon!
+*   [LinkedIn](https://www.linkedin.com/in/umair-shakoor/)
+*   [Email](mailto:umairshakoor.pro@gmail.com) 
+
+(Links to my portfolio and other contact information coming soon!)

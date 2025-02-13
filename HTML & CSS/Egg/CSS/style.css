@@ -1,17 +1,17 @@
 :root{
     /* Body */
     --bodybg:black;
+    --deftran:all 1s ease 0.1s;
     /* Egg */
     --Ceggbg:linear-gradient(to left,#EEF3F6,#E5EDF0,#DFE4E7);
     --eggbg:linear-gradient(to left,white,#CDCBBE);
-    --linebg:black;
     --magictran:all 0.2ms linear 0s;
 }
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
-    transition:all 1s ease 0.1s;
+    transition:var(--deftran);
 }
 body{
     width:100vw;
@@ -54,36 +54,11 @@ div{
 .lines{
     position:absolute;
     top:0;
-    left:45%;
+    left:40%;
     width:25px;
     height:50px;
     border-radius:0;
     display:none;
-}
-.lines span{
-    background-color:var(--linebg);
-    width:3px;
-    display:inline-block;
-}
-.line1{
-    transform:translate(5px,-1px) rotate(50deg);
-    height:22px;
-}
-.line2{
-    transform: translate(-10px,5.5px) rotate(-70deg);
-    height:15px;
-}
-.line3{
-    transform: translate(8px,-9px) rotate(20deg);
-    height:12px;
-}
-.line4{
-    transform: translate(-4px,1px) rotate(-30deg);
-    height:12px;
-}
-.line5{
-     transform: translate(10px,-14px) rotate(20deg);
-    height:6px;
 }
 .bros{
     width:100%;
@@ -143,6 +118,7 @@ div{
     border:0;
     border-radius:5px;
 }
+/* On Hover to Egg*/
 .shake:hover{
     animation:sh 0.2s linear 0.1s 2;
 }
