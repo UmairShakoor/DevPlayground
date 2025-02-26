@@ -15,7 +15,7 @@ The user is prompted to enter their age. The code then checks if the age falls w
 
 ## How to use 🚀
 
-1.  Open the [Live Demo](https://add_your_live_demo_link_here.com).
+1.  Open the [Live Demo](https://us-can-you-drive.netlify.app/).
 2.  *OR* Copy and paste the JavaScript code into your browser's developer console (F12).
 3.  Enter your age when prompted.
 4.  See the result! 😉
