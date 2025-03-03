@@ -20,5 +20,7 @@ Learning JS! 🚀
 
 ## Get in touch 📫
 
-*   [LinkedIn](https://www.linkedin.com/in/umair-shakoor/)
+*   [LinkedIn](https://www.linkedin.com/in/theumairshakoor/)
+*   [Twitter (X)](https://www.x.com/theumairshakoor/)
+*   [Dev.to](https://dev.to/umairshakoor/)
 *   [Email](mailto:umairshakoor.pro@gmail.com)
