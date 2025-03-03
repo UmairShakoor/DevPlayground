@@ -15,7 +15,7 @@ This project is a classic number guessing game where the user tries to guess a r
 
 ## How to Play
 
-1. Open the HTML file in a web browser. 🌐
+1. Copy Paste the JS file into browser console and press enter or visit [Live Demo](https://us-guess-it.netlify.app/) 🌐
 2. A prompt will appear asking you to guess a number between 1 and 100. 🤔
 3. Enter your guess and click "OK". 🖱️
 4. Follow the feedback to adjust your next guess. 🔄
