@@ -21,3 +21,13 @@ This project is a classic number guessing game where the user tries to guess a r
 4. Follow the feedback to adjust your next guess. 🔄
 5. Continue guessing until you find the secret number. 🎯
 6. The game will congratulate you and display the number of attempts it took. 🎉
+
+## Get in touch 📫
+
+*   [LinkedIn](https://www.linkedin.com/in/theumairshakoor/)
+*   [Twitter (X)](https://www.x.com/theumairshakoor/)
+*   [Dev.to](https://dev.to/umairshakoor/)
+*   [Email](mailto:umairshakoor.pro@gmail.com)
+
+## Contributing
+Feel free to fork this repository and add new features or improvements. Pull requests are welcome! 🤝
