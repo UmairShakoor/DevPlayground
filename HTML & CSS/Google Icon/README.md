@@ -18,7 +18,7 @@ Hey DevPlayground explorers! 👋 This project recreates the iconic Google "G" l
 ## How to Use 🛠️
 
 1.  Clone this repository to your local machine. 📥
-2.  Open `index.html` in your favorite browser. 🌐
+2.  Open `index.html` in your favorite browser or Go to [Live Link](https://us-google-icon.netlify.app/) 🌐.
 3.  Enjoy the colorful "G"! 🎉
 
 ## Technologies Used 💻
